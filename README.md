@@ -1,16 +1,11 @@
-# show_image
+# Show Image
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi dasar untuk menampilkan gambar di aplikasi. Pengguna dapat belajar cara memuat dan menampilkan gambar dari berbagai sumber, seperti aset lokal atau URL, dengan menggunakan widget gambar bawaan Flutter.
 
-## Getting Started
+## Fitur Utama
+- **Menampilkan Gambar dari Aset Lokal:** Aplikasi ini menampilkan gambar yang tersimpan di dalam direktori proyek sebagai contoh penggunaan gambar lokal di Flutter.
+- **Menampilkan Gambar dari URL:** Selain gambar lokal, aplikasi ini juga mendemonstrasikan bagaimana cara memuat dan menampilkan gambar dari URL eksternal, memanfaatkan kemampuan Flutter untuk menangani sumber gambar dinamis.
+- **UI Sederhana:** Aplikasi ini dirancang dengan antarmuka yang sederhana, memudahkan pengguna untuk fokus pada pembelajaran tentang cara kerja widget gambar di Flutter.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini ditujukan untuk membantu pengguna memahami bagaimana gambar dapat ditampilkan dalam aplikasi Flutter. Ini meliputi penggunaan gambar dari aset lokal hingga gambar yang diunduh dari internet. Melalui contoh ini, pengguna dapat memperluas wawasan mereka tentang manajemen gambar dan integrasi media dalam pengembangan aplikasi Flutter.
