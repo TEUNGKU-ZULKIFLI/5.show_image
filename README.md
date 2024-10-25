@@ -9,3 +9,9 @@ Proyek Flutter ini berfokus pada implementasi dasar untuk menampilkan gambar di 
 
 ### Tujuan Proyek
 Proyek ini ditujukan untuk membantu pengguna memahami bagaimana gambar dapat ditampilkan dalam aplikasi Flutter. Ini meliputi penggunaan gambar dari aset lokal hingga gambar yang diunduh dari internet. Melalui contoh ini, pengguna dapat memperluas wawasan mereka tentang manajemen gambar dan integrasi media dalam pengembangan aplikasi Flutter.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/005.1.png" width="200px"/>
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/005.2.png" width="200px"/>
+</div>
